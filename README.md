@@ -19,4 +19,4 @@ I've been programming since I was 8 years old and have used a various amount of 
 A little more about me
 --------------
 
-I'm a grade 9 highschooler, but I have a vast knowledge of Python, Java, and AI tools like OpenClaw and Ollama. I'm currently working towards a Black-Belt Certifications in those three areas. Check out some of my friends! Nsjminecraft(https://www.github.com/Nsjminecraft) and VerbogSidhu(https://github.com/VerbogSidhu)
+I'm a grade 9 highschooler, but I have a vast knowledge of Python, Java, and AI tools like OpenClaw and Ollama. I'm currently working towards a Black-Belt Certifications in those three areas. Check out some of my friends! [Nsjminecraft](https://www.github.com/Nsjminecraft) and [VerbogSidhu](https://github.com/VerbogSidhu)
