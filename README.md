@@ -10,6 +10,7 @@ I've been programming since I was 8 years old and have used a various amount of 
 *   ✉️  You can email me for any questions you might have at [kumarkids.aayush@gmail.com](mailto:kumarkids.aayush@gmail.com)
 *   ⚙️  I'm currently working on [HTML](http://github.com/AayushKumar1028/English-Semester-Final-Website)
 *   🧠  I'm currently learning AI and ML, along with WPI-Lib for Robotics.
+*   🤖  I'm the programming lead for the FRC Robotics High School Team 3560 Mechawolves
 *   👥  I'm interested in competing in hackathons with other people. You can email me for any offers.
 
   <p align="left">
@@ -20,3 +21,4 @@ A little more about me
 --------------
 
 I'm a grade 9 highschooler, but I have a vast knowledge of Python, Java, and AI tools like OpenClaw and Ollama. I'm currently working towards a Black-Belt Certifications in those three areas. Check out some of my friends! [Nsjminecraft](https://www.github.com/Nsjminecraft) and [VerbogSidhu](https://github.com/VerbogSidhu)
+
