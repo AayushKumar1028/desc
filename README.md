@@ -7,7 +7,6 @@ Hey there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785
 I've been programming since I was 8 years old and have learned alot of new languages. I love to code and listen to music.
 
 *   🌍  I'm based in Brampton, Canada
-// *   🖥️  See my portfolio at [niranjansj.tech](http://niranjansj.tech)
 *   ✉️  You can contact me at [kumarkids.aayush@gmail.com](mailto:kumarkids.aayush@gmail.com)
 *   🚀  I'm currently working on [HTML](http://github.com/AayushKumar1028/English-Semester-Final-Website)
 *   🧠  I'm currently learning AI and ML, along with WPI-Lib for Robotics.
